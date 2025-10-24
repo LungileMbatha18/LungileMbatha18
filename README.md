@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LungileMbatha18
 - 👀 I’m interested in advancing my skills in programming.
-- 🌱 I’m currently studying my first year in BSc Computer Science
+- 🌱 I’m currently studying  BSc Computer Science
 - 💞️ I’m looking to collaborate on projects that can help build/advance my coding. And also grow as a person ane meet likely minded people
 - 📫 How to reach me:
 - Email : mbatha_asl@icloud.com
