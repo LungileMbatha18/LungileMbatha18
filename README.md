@@ -7,19 +7,23 @@ I am passionate about building solutions that create impact. Whether it’s deve
 - Studying Computer Science at the University of the Free State  
 - Tech Head at ZDS and www.mfoodie2go.com 
 - President of Enactus UFS-B 
-- Social Media Lead for ThinkWaste Africa and I am a Base creator! 
+- Social Media Lead for ThinkWaste Africa and I am a Base creator!
+  
+- Technology and Innovations lead at the Business Incubator UFS
 
 ## Skills & Interests
 - Programming & Development: C#, HTML, CSS, JavaScript  
 - Web & Mobile Development: Full-stack web projects, portfolio websites, interactive applications  
 - Leadership & Entrepreneurship: Project management, student enterprises, business strategy  
 - Social Impact: Sustainability, community development, youth-focused initiatives  
-- Content & Branding: Personal brand building, digital storytelling, social media strategy  
+- Content & Branding: Personal brand building, digital storytelling, social media strategy
+- 
 
 ## Current Focus
 - Launching my fragrance brand and franchise  
 - Building projects that combine technology and social impact  
-- Expanding my personal brand and online portfolio  
+- Expanding my personal brand and online portfolio
+- Business :Cooking up a project that benefit tech students and startups under my tech start up.
 
 ## Connect With Me
 - Email:mbatha_asl@icloud.com / anelembatha587@gmail.com 
